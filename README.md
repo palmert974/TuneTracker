@@ -4,13 +4,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ---
 
-## 📥 Downloadable Resources
-
-- **Cheat Sheet:** [Download React Snippets Cheat Sheet](https://github.com/palmert974/TuneTracker/raw/main/README-react-snippets.md)
-  - Right-click and select "Save link as..." to download.
-
----
-
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
